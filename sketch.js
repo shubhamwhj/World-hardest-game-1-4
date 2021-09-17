@@ -2,9 +2,9 @@ var b, enemyImage, ballImage, scene, ball, alien1, alien2, alien3, score=0, opsc
 
 function preload(){
   
-  b = loadImage("assets/b.png");
-  enemyImage = loadImage("assets/alien.png");
-  ballImage = loadImage("assets/ball.png");
+  b = loadImage("b.png");
+  enemyImage = loadImage("alien.png");
+  ballImage = loadImage("ball.png");
   
 }
 
